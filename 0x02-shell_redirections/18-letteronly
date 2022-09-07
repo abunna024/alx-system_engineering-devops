@@ -1,0 +1,2 @@
+#!/bin/bash
+grep _i "a-z]" /etc/shh/sshd_config
